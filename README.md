@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Picasso Painting</h2>
-In this project, I have build a picasso painting webpage, <br />The project is built using HTML5 & CSS3.
+In this project, I have build a picasso painting webpage, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/picasso-painting/"><strong>➥ Live Demo</strong></a>
 
